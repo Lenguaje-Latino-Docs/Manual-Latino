@@ -30,7 +30,7 @@ Declaración (creación) de variables
 ------------------------------------
 Las variables de Latino deben ser identificadas por un **nombre único**.
 
-Estos nombres pueden ser cortos (como X o Y) o pueden ser nombres mas descriptivos (como edad, nombre, valorTotal, etc.)
+Estos nombres pueden ser cortos (como X o Y) o pueden ser nombres más descriptivos (como edad, nombre, valorTotal, etc.)
 
 La regla general en Latino para crear nombres de variables son las siguientes:
 
